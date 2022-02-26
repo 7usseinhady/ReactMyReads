@@ -2,9 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Project Description 
+
+The project contains two main pages, the first page contains the books that were selected before, divided into three sections, and books can be transferred from one shelf to another, the second page contains a search in the library and my reads you can also move book from library to your shelfs
+
+components are header, shelf, books, and search  
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+to install react node modules ,
+Make sure the node_modules folder is down in the project after installation
 
 ### `npm start`
 
@@ -68,6 +80,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Project Summary 
-The project contains two pages, the first page contains the books that were selected before, divided into three sections, and books can be transferred from one shelf to another, and the second page contains a search in the library and my reads 
