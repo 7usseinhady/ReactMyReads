@@ -15,7 +15,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-to install react node modules ,
+to install react node modules open new terminal type 'npm install' and press enter,
 Make sure the node_modules folder is down in the project after installation
 
 ### `npm start`
